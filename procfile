@@ -1,1 +1,1 @@
-worker: python eded.py
+web: python eded.py
